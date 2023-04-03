@@ -1,7 +1,7 @@
 # SortingTeacher
  Sorting tool teaching different sorting algorithms
- 
- ![image](https://user-images.githubusercontent.com/78951970/229383999-ab2250e9-661c-49a0-9389-faaaf45bf414.png)
+
+<img src="https://user-images.githubusercontent.com/78951970/229383999-ab2250e9-661c-49a0-9389-faaaf45bf414.png" style="width: 40%">
  
  Sorting tool that aims to visually teach different sorting algorithms. 
  GUI made with Java Swing. 
